@@ -1,0 +1,219 @@
+[
+  {
+    "role": "Python Developer",
+    "skills": [
+      "Python",
+      "Django",
+      "REST API",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "bullet": "Architected and deployed scalable REST APIs using Django and PostgreSQL, serving 50K+ daily requests with 99.9% uptime and reducing response time by 40% through Redis caching implementation."
+  },
+  {
+    "role": "Python Developer",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "JWT",
+      "Docker",
+      "Kubernetes"
+    ],
+    "bullet": "Engineered microservices architecture using FastAPI with JWT authentication, containerized with Docker and orchestrated via Kubernetes, improving deployment efficiency by 60% and reducing infrastructure costs by $25K annually."
+  },
+  {
+    "role": "Python Developer",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Data Analysis",
+      "ETL"
+    ],
+    "bullet": "Automated complex ETL pipelines using Pandas and NumPy, processing 2M+ records daily and reducing manual data processing time from 8 hours to 30 minutes, enabling real-time analytics for business stakeholders."
+  },
+  {
+    "role": "Python Developer",
+    "skills": [
+      "Python",
+      "Flask",
+      "AWS",
+      "Lambda",
+      "DynamoDB"
+    ],
+    "bullet": "Developed serverless applications using Flask and AWS Lambda with DynamoDB, handling 100K+ concurrent users while reducing operational costs by 45% and achieving sub-200ms response times."
+  },
+  {
+    "role": "Full Stack Developer",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "TypeScript",
+      "GraphQL"
+    ],
+    "bullet": "Built responsive web applications using React and TypeScript with Node.js backend, implementing GraphQL APIs and MongoDB integration, resulting in 35% faster page load times and 25% increase in user engagement."
+  },
+  {
+    "role": "Full Stack Developer",
+    "skills": [
+      "Next.js",
+      "PostgreSQL",
+      "Prisma",
+      "Tailwind CSS",
+      "Vercel"
+    ],
+    "bullet": "Developed e-commerce platform using Next.js with Prisma ORM and PostgreSQL, featuring real-time inventory management and payment processing, generating $500K+ in monthly revenue with 99.8% transaction success rate."
+  },
+  {
+    "role": "Full Stack Developer",
+    "skills": [
+      "Vue.js",
+      "Express.js",
+      "Redis",
+      "Socket.io",
+      "AWS"
+    ],
+    "bullet": "Created real-time collaboration platform using Vue.js and Express.js with Socket.io, supporting 1000+ concurrent users and implementing Redis for session management, deployed on AWS with auto-scaling capabilities."
+  },
+  {
+    "role": "AI/ML Engineer",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Deep Learning",
+      "NLP",
+      "BERT"
+    ],
+    "bullet": "Developed advanced NLP models using TensorFlow and BERT for sentiment analysis, achieving 94% accuracy on production data and processing 10M+ customer reviews daily, improving customer satisfaction insights by 40%."
+  },
+  {
+    "role": "AI/ML Engineer",
+    "skills": [
+      "LangChain",
+      "RAG",
+      "FAISS",
+      "OpenAI",
+      "Vector Database"
+    ],
+    "bullet": "Implemented RAG-based AI assistant using LangChain and FAISS vector database, integrating OpenAI GPT models to achieve 85% query accuracy and reducing customer support response time by 70%."
+  },
+  {
+    "role": "AI/ML Engineer",
+    "skills": [
+      "PyTorch",
+      "Computer Vision",
+      "CNN",
+      "MLOps",
+      "Docker"
+    ],
+    "bullet": "Built computer vision pipeline using PyTorch and CNNs for automated quality inspection, achieving 98% defect detection accuracy and reducing manual inspection time by 80%, deployed via MLOps practices with Docker."
+  },
+  {
+    "role": "AI/ML Engineer",
+    "skills": [
+      "Scikit-learn",
+      "Feature Engineering",
+      "Model Deployment",
+      "FastAPI"
+    ],
+    "bullet": "Designed machine learning models using Scikit-learn with advanced feature engineering, deployed via FastAPI endpoints serving 50K+ predictions daily with <100ms latency, improving business decision accuracy by 30%."
+  },
+  {
+    "role": "Cloud Engineer",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "CI/CD",
+      "Monitoring"
+    ],
+    "bullet": "Architected cloud infrastructure on AWS using Terraform and Kubernetes, implementing CI/CD pipelines with comprehensive monitoring, reducing deployment time by 75% and achieving 99.99% system availability."
+  },
+  {
+    "role": "DevOps Engineer",
+    "skills": [
+      "Docker",
+      "Jenkins",
+      "Ansible",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bullet": "Orchestrated containerized applications using Docker and Jenkins CI/CD, automated infrastructure provisioning with Ansible, and implemented monitoring with Prometheus/Grafana, reducing deployment failures by 90%."
+  },
+  {
+    "role": "Cloud Engineer",
+    "skills": [
+      "Azure",
+      "ARM Templates",
+      "Azure DevOps",
+      "PowerShell"
+    ],
+    "bullet": "Migrated legacy systems to Azure cloud using ARM templates and PowerShell automation, implementing Azure DevOps pipelines, resulting in 50% cost reduction and 3x faster deployment cycles."
+  },
+  {
+    "role": "Java Developer",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka",
+      "MySQL"
+    ],
+    "bullet": "Developed enterprise microservices using Java Spring Boot with Apache Kafka messaging, handling 1M+ transactions daily with MySQL clustering, improving system throughput by 60% and reducing latency by 45%."
+  },
+  {
+    "role": "Java Developer",
+    "skills": [
+      "Java",
+      "Hibernate",
+      "JPA",
+      "Oracle",
+      "Performance Tuning"
+    ],
+    "bullet": "Optimized database operations using Hibernate and JPA with Oracle, implementing advanced caching strategies and query optimization, reducing database response time by 70% and improving application performance by 50%."
+  },
+  {
+    "role": "Data Engineer",
+    "skills": [
+      "Apache Spark",
+      "Hadoop",
+      "Airflow",
+      "Snowflake",
+      "Python"
+    ],
+    "bullet": "Built scalable data pipelines using Apache Spark and Airflow, processing 10TB+ daily data volumes with Hadoop ecosystem, migrated to Snowflake data warehouse, reducing processing time by 80%."
+  },
+  {
+    "role": "Data Engineer",
+    "skills": [
+      "Kafka",
+      "Elasticsearch",
+      "Kibana",
+      "Real-time Processing"
+    ],
+    "bullet": "Implemented real-time data streaming architecture using Apache Kafka and Elasticsearch, creating interactive dashboards with Kibana, enabling real-time analytics for 500+ business users with sub-second latency."
+  },
+  {
+    "role": "Frontend Developer",
+    "skills": [
+      "React",
+      "Redux",
+      "TypeScript",
+      "Webpack",
+      "Testing"
+    ],
+    "bullet": "Developed responsive React applications with Redux state management and TypeScript, optimized build process using Webpack, implemented comprehensive testing suite, resulting in 40% faster load times and 95% test coverage."
+  },
+  {
+    "role": "Frontend Developer",
+    "skills": [
+      "Angular",
+      "RxJS",
+      "Material Design",
+      "PWA",
+      "Performance"
+    ],
+    "bullet": "Built Progressive Web Applications using Angular and RxJS with Material Design, implementing service workers and performance optimizations, achieving 98+ Lighthouse scores and 50% improvement in user retention."
+  }
+]
