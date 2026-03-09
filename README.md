@@ -34,6 +34,26 @@ A **production-ready, professional ATS application** that analyzes resumes again
 - **NLP**: spaCy + Advanced text processing
 - **Analytics**: Pandas + Plotly for visualizations
 
+# Project Screenshots
+
+## Main Dashboard
+![Main Dashboard](project%20screenshots/main.png)
+
+## ATS Score
+![ATS Score](project%20screenshots/ats_score.png)
+
+## Skills Analysis
+![Skills Analysis](project%20screenshots/skills.png)
+
+## Resume Bullet Improvements
+![Bullet Improvements](project%20screenshots/bullets.png)
+
+## Summary View
+![Summary](project%20screenshots/summary.png)
+
+## About Page
+![About](project%20screenshots/about.png)
+
 ## **Project Structure**
 
 ```
@@ -117,16 +137,6 @@ streamlit run app.py
 - **Market Alignment** - Ensure client skills match market demands
 - **Progress Tracking** - Monitor improvement over time
 
-## 🔧 **Advanced Configuration**
-
-### **Skill Categories (20+ Categories)**
-- Programming Languages (25+ languages)
-- Cloud Platforms (AWS, Azure, GCP services)
-- AI/ML Frameworks (TensorFlow, PyTorch, LangChain)
-- DevOps Tools (Docker, Kubernetes, Terraform)
-- Databases (SQL, NoSQL, Vector databases)
-- And 15+ more categories...
-
 ### **ATS Scoring Components**
 - **Keyword Matching** (30% weight) - Job description alignment
 - **Skills Analysis** (25% weight) - Technical competency assessment
@@ -140,40 +150,3 @@ streamlit run app.py
 - **Quantifiable Metrics** - Add realistic performance numbers
 - **Action Verb Optimization** - Professional language enhancement
 - **Industry Terminology** - Relevant technical keywords integration
-
-## **Performance & Scalability**
-
-- **Response Time**: <2 seconds for analysis
-- **Concurrent Users**: Supports 100+ simultaneous analyses
-- **File Support**: PDF, DOCX with advanced text extraction
-- **Skill Database**: 500+ skills across 20+ categories
-- **Resume Examples**: 40+ professional bullet points for RAG
-- **Vector Search**: Sub-second similarity matching with FAISS
-
-## **Production Features**
-
-- **Error Handling** - Comprehensive error messages and fallbacks
-- **Input Validation** - File type and content validation
-- **Rate Limiting** - API protection and resource management
-- **Analytics Tracking** - Usage statistics and performance monitoring
-- **Scalable Architecture** - Microservices-ready design
-- **Security** - Input sanitization and secure file handling
-
-## **Future Enhancements**
-
-- **Multi-language Support** - Resume analysis in multiple languages
-- **Industry-Specific Models** - Specialized analysis for different sectors
-- **Real-time Collaboration** - Team-based resume review features
-- **Advanced Analytics** - Detailed reporting and insights dashboard
-- **API Integration** - Connect with job boards and ATS systems
-- **Mobile Application** - Native mobile app for on-the-go analysis
-
-## **Acknowledgments**
-
-- **LangChain** - For RAG implementation framework
-- **Groq** - For high-performance LLM inference
-- **FAISS** - For efficient vector similarity search
-- **Streamlit** - For rapid frontend development
-- **FastAPI** - For modern, fast API development
-
----
