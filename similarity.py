@@ -12,7 +12,7 @@ class SimilarityAnalyzer:
         self, 
         resume_text: str, 
         jd_text: str, 
-        resume_skills: Dict[str, List[str]], 
+        resume_skills: Dict[str, List[str]],
         jd_skills: Dict[str, List[str]]
     ) -> Dict:
         resume_embedding = self.model.encode([resume_text])
