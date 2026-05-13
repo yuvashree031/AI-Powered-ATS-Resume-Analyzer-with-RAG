@@ -27,7 +27,7 @@ class SkillExtractor:
         
         return extracted_skills
     
-    def get_all_skills_flat(self, skills_dict: Dict[str, List[str]]) -> Set[str]:
+    def get_all_skills_flat(self, skills_dict: Dict[str, List[str]]) -> Set[str]: #getAllSkills
         all_skills = set()
         for skills_list in skills_dict.values():
             all_skills.update(skills_list)
