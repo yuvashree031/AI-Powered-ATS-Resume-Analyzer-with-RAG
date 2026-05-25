@@ -8,7 +8,7 @@ class SkillExtractor:
         with open(skill_keywords_path, 'r') as f:
             self.skill_keywords = json.load(f)
     
-    def extract_skills(self, text: str) -> Dict[str, List[str]]: #extract skills
+    def extract_skills(self, text: str) -> Dict[str, List[str]]: 
         if not text:
             return {category: [] for category in self.skill_keywords.keys()}
         
