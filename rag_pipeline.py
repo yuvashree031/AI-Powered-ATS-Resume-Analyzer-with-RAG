@@ -1,4 +1,3 @@
-
 import json
 import pickle
 from typing import List, Dict, Any
@@ -6,7 +5,6 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import faiss
 
-#implementation
 
 try: #try catch block
     from langchain_groq import ChatGroq
