@@ -2,7 +2,7 @@ import json
 import re
 from typing import Dict, List, Set
 
-
+//
 class SkillExtractor:
     def __init__(self, skill_keywords_path: str = "data/skill_keywords.json"):
         with open(skill_keywords_path, 'r') as f:
