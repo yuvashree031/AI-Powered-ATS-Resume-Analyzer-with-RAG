@@ -8,7 +8,7 @@ from pydantic import BaseModel
 import asyncio
 from datetime import datetime
 
-//
+
 from utils.text_loader import extract_pdf_text, extract_docx_text
 from utils.preprocessing import preprocess_text
 from skill_extractor import SkillExtractor
