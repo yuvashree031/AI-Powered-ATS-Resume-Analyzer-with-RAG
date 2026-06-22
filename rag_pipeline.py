@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 
 
-try: #try catch block
+try: 
     from langchain_groq import ChatGroq
     from langchain.prompts import PromptTemplate
     from langchain.schema import HumanMessage
