@@ -4,7 +4,7 @@ from typing import List, Dict, Any
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import faiss
-
+#rag
 
 try: 
     from langchain_groq import ChatGroq
