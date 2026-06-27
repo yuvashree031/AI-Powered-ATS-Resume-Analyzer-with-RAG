@@ -2,7 +2,7 @@ from typing import Dict, List, Set, Tuple
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
-
+from typing
 
 class SimilarityAnalyzer:
     def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
