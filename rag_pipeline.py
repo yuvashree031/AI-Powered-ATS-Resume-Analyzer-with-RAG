@@ -5,7 +5,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import faiss
 
-
+#ksjsj
 try: 
     from langchain_groq import ChatGroq
     from langchain.prompts import PromptTemplate
