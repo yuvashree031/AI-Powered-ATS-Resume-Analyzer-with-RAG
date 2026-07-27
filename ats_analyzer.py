@@ -3,7 +3,6 @@ from typing import Dict, List, Tuple, Any
 from dataclasses import dataclass
 from skill_extractor import SkillExtractor
 
-#ksjsj
 @dataclass
 class ATSScore:
     overall_score: float
